@@ -1,16 +1,17 @@
-## Hi there 👋
+# Temesgen Melaku (0xTemesgen)
 
-<!--
-**Temesgen-NM/Temesgen-NM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Currently Learning** 
 
-Here are some ideas to get you started:
+### 🌐 Connectivity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TemesgenMN)
+[![Signal](https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white)](https://signal.me/#eu/OuyDkWfiTPuAsKYEBTRNxBrzSOo1_XN6xMJzJSV0jgNjxVZ4mh5O1KHuvarIED6f)
+
+### 🛠️ Arsenal
+
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
