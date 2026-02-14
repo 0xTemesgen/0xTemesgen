@@ -1,6 +1,6 @@
 # Temesgen Melaku (0xTemesgen)
 
-> **Currently Learning** 
+> **Results appear soon...** 
 
 ###  Connectivity
 
