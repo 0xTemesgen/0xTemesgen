@@ -5,10 +5,6 @@
 </div>
 
 
-### Identity
-
-`0xTemesgen` [![Copy Username](https://img.shields.io/badge/Copy-Username-blue?style=flat-square&logo=github)](https://cli.github.com/)
-
 ### Research Focus
 
 Exploring the intersections of systems architecture, memory safety, and network protocols. Focused on understanding how complex systems function from the kernel up and identifying the boundaries of secure implementations.
