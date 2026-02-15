@@ -12,8 +12,8 @@ Exploring the intersections of systems architecture, memory safety, and network 
 ### Connectivity
 
 <p align="left">
-<a href="https://t.me/TemesgenMN" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="TemesgenMN" /></a>
-<a href="https://signal.me/#eu/OuyDkWfiTPuAsKYEBTRNxBrzSOo1_XN6xMJzJSV0jgNjxVZ4mh5O1KHuvarIED6f" target="blank"><img align="center" src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white" alt="Signal" /></a>
+<a href="https://t.me/TemesgenMN" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://signal.me/#eu/OuyDkWfiTPuAsKYEBTRNxBrzSOo1_XN6xMJzJSV0jgNjxVZ4mh5O1KHuvarIED6f" target="blank"><img src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white" /></a>
 </p>
 
 
@@ -29,7 +29,7 @@ Exploring the intersections of systems architecture, memory safety, and network 
 ### Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xTemesgen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="0xTemesgen GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xTemesgen&layout=compact&theme=tokyonight&hide_border=true" alt="0xTemesgen Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xTemesgen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xTemesgen&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
