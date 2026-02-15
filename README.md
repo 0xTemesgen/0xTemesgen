@@ -5,6 +5,10 @@
 </div>
 
 
+### Identity
+
+`0xTemesgen` [![Copy Username](https://img.shields.io/badge/Copy-Username-blue?style=flat-square&logo=github)](https://cli.github.com/)
+
 ### Research Focus
 
 Exploring the intersections of systems architecture, memory safety, and network protocols. Focused on understanding how complex systems function from the kernel up and identifying the boundaries of secure implementations.
@@ -21,7 +25,7 @@ Exploring the intersections of systems architecture, memory safety, and network 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,linux,bash,c,py,git,docker,vim&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=arch,linux,bash,c,py,git,docker,neovim&theme=dark" />
   </a>
 </p>
 
