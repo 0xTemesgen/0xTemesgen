@@ -1,17 +1,41 @@
 # Temesgen Melaku (0xTemesgen)
 
-> **Results appear soon...** 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Currently:+Phase+0+(The+Bedrock);Mastering+Linux+Internals;Learning+C+%26+Python+for+Security;Building+the+Future+of+Cybersecurity" alt="Typing SVG" />
+</div>
+
+
+###  Training Status
+
+- [x] **Phase 0:** Absolute Foundations (Months 1-3) 🏗️
+- [ ] **Phase 1:** Low-Level Systems + Web Dev 
+- [ ] **Phase 2:** Exploitation & RE
 
 ###  Connectivity
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TemesgenMN)
-[![Signal](https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white)](https://signal.me/#eu/OuyDkWfiTPuAsKYEBTRNxBrzSOo1_XN6xMJzJSV0jgNjxVZ4mh5O1KHuvarIED6f)
+<p align="left">
+<a href="https://t.me/TemesgenMN" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="TemesgenMN" /></a>
+<a href="https://signal.me/#eu/OuyDkWfiTPuAsKYEBTRNxBrzSOo1_XN6xMJzJSV0jgNjxVZ4mh5O1KHuvarIED6f" target="blank"><img align="center" src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white" alt="Signal" /></a>
+</p>
+
 
 ###  Arsenal
 
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,linux,bash,c,py,git,docker,vim&theme=dark" />
+  </a>
+</p>
+
+
+###  Stats & Activity
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xTemesgen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="0xTemesgen GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xTemesgen&layout=compact&theme=tokyonight&hide_border=true" alt="0xTemesgen Top Langs" />
+</p>
+
 
 ---
+
+*"Every week: ship one artifact that proves skill."*
